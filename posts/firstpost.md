@@ -3,7 +3,7 @@ title: This is the first example post test
 metaDescription: This is a sample meta description. If one is not present in
   your page/post's front matter, the default metadata.desciption will be used
   instead.
-date: 2019-01-01T00:00:00.000Z
+date: 2021-01-01T18:59:32.254Z
 author: John Appleseed
 summary: Why contemplating our mortality can be a powerful catalyst for change testttet
 tags:
