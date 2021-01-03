@@ -10,6 +10,7 @@ tags:
 ---
 An overview of UI animation for beginners!
 
+![easing](/static/img/common-easing-curves.jpg "easing")
 
 ## Adobe xd file viewer and interactive prototyp
 
