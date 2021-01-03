@@ -1,14 +1,12 @@
 ---
-title: The fifth and hopefully final example post
+title: 4 Artists paint 1 tree (Walt Disney)
 date: 2020-10-15T12:23:39.598Z
-author: Jane Doe
-summary: Why contemplating our mortality can be a powerful catalyst for change
+author: Markus Morley
+summary: Great documentary about 4 famous Disney background artists!
 tags:
   - environment
-  - sport
+  - animation
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-![A sample inlined image](https://source.unsplash.com/random/600x400)
-
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Great documentary about 4 famous Disney background artists!
+[youtube link](https://www.youtube.com/watch?v=9Dg8w6gk4cE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Dg8w6gk4cE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

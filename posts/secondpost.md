@@ -1,15 +1,22 @@
 ---
-title: This is the second example post
-summary: Why contemplating our mortality can be a powerful catalyst for change
+title: Frontend development/design inspiration
+summary: These 7 sources of web design inspiration are sure to ignite the creative fire you need to build better website designs.
 date: 2020-01-01
-author: John Appleseed
+author: Markus Morley
 tags:
-  - sport
+  - Design
+  - frontend
+  - inspiration
+  - photography
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+These 7 sources of web design inspiration are sure to ignite the creative fire you need to build better website designs.
 
-## Section Header
+## Websites
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+  - [abduzeedo link](https://abduzeedo.com/)
+  - [plink link](https://useplink.com/en/)
+  - [arab-spring-break link](https://epicmagazine.com/arab-spring-break/)
+  - [kuum.jp link](https://www.kuum.jp/)
+  - [Where does coffee come from? A journey from bean to cup. link](http://www.bizbrain.org/coffee/)
+  - [fergie link](http://www.fergie.com/)
+  - [inVision Design Engineering Handbook link](https://www.designbetter.co/)

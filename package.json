@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate1"
+    "url": "https://github.com/gasseklopper"
   },
   "author": {
-    "name": "Dan Urbanowicz",
-    "email": "dan.urbanowicz@gmail.com",
-    "url": "https://www.danurbanowicz.com/"
+    "name": "markus morley",
+    "email": "m-morley@gmx.de",
+    "url": "https://www.markusmorley.de/"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate/issues3"
+    "url": "https://github.com/gasseklopper"
   },
-  "homepage": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate2",
+  "homepage": "https://github.com/gasseklopper",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "luxon": "^1.25.0",
