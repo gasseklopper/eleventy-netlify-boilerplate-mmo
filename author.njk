@@ -12,7 +12,7 @@ renderData:
   metaDescription: "An archive of all posts by the author: {{ author }}."
 ---
 
-<h1>{{ renderData.title | safe }}</h1>
+<h2>{{ renderData.title | safe }}</h2>
 
 <section>
 	{% for post in collections.authors[author] | reverse %}

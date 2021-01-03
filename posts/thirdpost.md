@@ -1,23 +1,16 @@
 ---
-title: This is the third example post which has a slightly longer title than the others
+title: UI Animation, Motion Design & Micro Interaction Basics presentation (wip)
 date: 2020-01-01
-author: Jane Doe
-summary: Why contemplating our mortality can be a powerful catalyst for change
+author: Markus Morley
+summary: An overview of UI animation for beginners!
 tags:
-  - tech
-  - politics
+  - Adobe xd
+  - animations
+  - inspiration
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+An overview of UI animation for beginners!
 
-```
-pre,
-code {
-	line-height: 1.5;
-}
-```
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+## Adobe xd file viewer and interactive prototyp
 
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+[Adobe xd preview](https://xd.adobe.com/view/5e1eaa08-7d53-4d25-ae34-28bdbad41ad1-0b4d/grid)
